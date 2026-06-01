@@ -1,0 +1,6 @@
+{
+  "name": "God Mode",
+  "description": "Graphic Arts Study OS Command Center with AI Tutor, Notes, and Analytics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
